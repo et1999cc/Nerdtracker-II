@@ -1,0 +1,24 @@
+nesess.c(9): Error! E059: (col 10) unable to open 'typedefs.h' 
+nesess.h(4): Error! E059: (col 10) unable to open 'typedefs.h' 
+nesess.h(4): Note! N393: (col 10) included from nesess.c(10) 
+nesess.h(35): Error! E336: (col 17) declaration specifiers are required to declare 'WORD' 
+nesess.h(35): Error! E006: (col 9) syntax error; probable cause: missing ';' 
+nesess.h(36): Error! E336: (col 12) declaration specifiers are required to declare 'BYTE' 
+nesess.h(36): Error! E498: (col 9) syntax error before 'IRQ'; probable cause: incorrectly spelled type name 
+nesess.h(37): Error! E336: (col 12) declaration specifiers are required to declare 'BYTE' 
+nesess.h(37): Error! E498: (col 9) syntax error before 'DMA'; probable cause: incorrectly spelled type name 
+nesess.h(38): Error! E336: (col 22) declaration specifiers are required to declare 'WORD' 
+nesess.h(38): Error! E498: (col 9) syntax error before 'MaxMixingRate'; probable cause: incorrectly spelled type name 
+nesess.h(39): Error! E336: (col 14) declaration specifiers are required to declare 'BYTE' 
+nesess.h(39): Error! E498: (col 9) syntax error before 'Flags'; probable cause: incorrectly spelled type name 
+nesess.h(44): Error! E121: (col 1) syntax error 
+nesess.c(129): Error! E336: (col 22) declaration specifiers are required to declare 'sBYTE' 
+nesess.c(129): Error! E498: (col 9) syntax error before 'LCounterTable'; probable cause: incorrectly spelled type name 
+nesess.c(136): Error! E042: (col 19) symbol 'MixingRate' already defined 
+nesess.c(136): Note! N392: (col 19) 'long MixingRate' defined in: nesess.h(43) (col 9) 
+nesess.c(136): Error! E489: (col 20) symbol 'MixingRate' has already been initialized 
+nesess.c(136): Note! N392: (col 20) 'long MixingRate' defined in: nesess.h(43) (col 9) 
+nesess.c(147): Error! E336: (col 9) declaration specifiers are required to declare 'sBYTE' 
+nesess.c(147): Error! E121: (col 9) syntax error 
+nesess.c(185): Error! E121: (col 26) syntax error 
+nesess.c(188): Error! E133: (col 25) too many errors: compilation aborted 

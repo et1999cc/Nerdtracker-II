@@ -1,0 +1,13 @@
+snd_gus.c(13): Error! E1055: Unable to open 'forte.h'
+snd_gus.c(15): Error! E1055: Unable to open 'gf1proto.h'
+snd_gus.c(16): Error! E1055: Unable to open 'extern.h'
+snd_gus.c(17): Error! E1055: Unable to open 'ultraerr.h'
+snd_gus.c(348): Error! E1079: Expression must be integral
+snd_gus.c(348): Error! E1079: Expression must be integral
+snd_gus.c(349): Error! E1011: Symbol 'control' has not been declared
+snd_gus.c(349): Error! E1011: Symbol 'TRUE' has not been declared
+snd_gus.c(518): Error! E1011: Symbol 'ULTRA_CFG' has not been declared
+snd_gus.c(518): Error! E1009: Expecting ';' but found 'config'
+snd_gus.c(520): Error! E1011: Symbol 'config' has not been declared
+snd_gus.c(522): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+snd_gus.c(522): Error! E1011: Symbol 'NO_ULTRA' has not been declared
